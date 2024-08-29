@@ -1,3 +1,4 @@
+// Two way merge
 #include <stdio.h>
 #define SIZE 12
 
